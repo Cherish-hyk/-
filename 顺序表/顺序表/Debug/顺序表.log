@@ -1,0 +1,6 @@
+﻿  静态.c
+C:\Users\61676\source\repos\顺序表\顺序表\静态.c(24,20): warning C4047: “=”:“int *”与“int”的间接级别不同
+C:\Users\61676\source\repos\顺序表\顺序表\静态.c(43,21): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\61676\source\repos\顺序表\顺序表\静态.c(54,23): warning C4047: “return”:“int”与“int *”的间接级别不同
+C:\Users\61676\source\repos\顺序表\顺序表\静态.c(60,22): warning C4047: “==”:“int *”与“int”的间接级别不同
+  顺序表.vcxproj -> C:\Users\61676\source\repos\顺序表\Debug\顺序表.exe
