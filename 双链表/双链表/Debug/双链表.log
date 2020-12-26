@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\61676\source\repos\双链表\双链表\源.c(51,21): warning C4047: “函数”:“DNode *”与“DNode **”的间接级别不同
+C:\Users\61676\source\repos\双链表\双链表\源.c(51,19): warning C4024: “DeleteNextDNode”: 形参和实参 1 的类型不同
+C:\Users\61676\source\repos\双链表\双链表\源.c(60,18): warning C4047: “函数”:“DNode *”与“DLinklist *”的间接级别不同
+C:\Users\61676\source\repos\双链表\双链表\源.c(60,16): warning C4024: “InitDLinkList”: 形参和实参 1 的类型不同
+  双链表.vcxproj -> C:\Users\61676\source\repos\双链表\Debug\双链表.exe
