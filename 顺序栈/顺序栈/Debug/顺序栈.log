@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\61676\source\repos\顺序栈\顺序栈\源.c(37,21): warning C4047: “=”:“int *”与“int”的间接级别不同
+C:\Users\61676\source\repos\顺序栈\顺序栈\源.c(45,21): warning C4047: “=”:“int *”与“int”的间接级别不同
+C:\Users\61676\source\repos\顺序栈\顺序栈\源.c(52,8): warning C4013: “system”未定义；假设外部返回 int
+  顺序栈.vcxproj -> C:\Users\61676\source\repos\顺序栈\Debug\顺序栈.exe
